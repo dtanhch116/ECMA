@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Tuấn anh 127116",
+      "price": "21",
+      "id": 2
+    },
+    {
+      "name": "Tuấn anh",
+      "price": "1000",
+      "id": 3
+    },
+    {
+      "name": "Tuấn anh 12",
+      "price": "20",
+      "id": 4
+    }
+  ]
+}
